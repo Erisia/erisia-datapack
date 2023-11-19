@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"erisia-datapack","version":"0.0.1","name":"Erisia Datapack","description":"A Datapack to ensure other datapacks play nicely with modded.","authors":["Erisia Team"],"contact":{"homepage":"https://madoka.brage.info"},"depends":{"fabric-resource-loader-v0":"*"}}
